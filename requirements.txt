@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+pymysql
+SQLAlchemy
+kneed
+dtale
